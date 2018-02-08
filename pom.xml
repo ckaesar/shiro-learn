@@ -9,6 +9,7 @@
 	<modules>
 		<module>shiro-learn-chapter2</module>
     	<module>shiro-learn-chapter3</module>
+    <module>shiro-learn-chapter4</module>
   </modules>
 
 	<properties>
